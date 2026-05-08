@@ -35,7 +35,7 @@ $ cd $GOPATH/src/github.com/getsops/sops/
 $ make install
 ```
 
-(requires Go >= 1.24)
+(requires Go >= 1.25)
 
 If you don\'t have Go installed, set it up with:
 
